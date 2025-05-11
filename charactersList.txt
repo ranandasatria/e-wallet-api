@@ -1,0 +1,52 @@
+[
+  {
+    "img": "https://randomuser.me/api/portraits/men/11.jpg",
+    "nama": "James Walker",
+    "phone": "081234567890"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/22.jpg",
+    "nama": "Emily Johnson",
+    "phone": "082233445566"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/33.jpg",
+    "nama": "Michael Davis",
+    "phone": "083144556677"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "nama": "Sophia Lee",
+    "phone": "085155667788"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/55.jpg",
+    "nama": "William Smith",
+    "phone": "081177889900"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/66.jpg",
+    "nama": "Olivia Brown",
+    "phone": "087788990011"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/77.jpg",
+    "nama": "Liam Miller",
+    "phone": "089912345678"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/88.jpg",
+    "nama": "Ava Wilson",
+    "phone": "082198765432"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/99.jpg",
+    "nama": "Benjamin Taylor",
+    "phone": "085222334455"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/12.jpg",
+    "nama": "Isabella Moore",
+    "phone": "081366677788"
+  }
+]
