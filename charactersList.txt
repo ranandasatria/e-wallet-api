@@ -41,12 +41,62 @@
   },
   {
     "img": "https://randomuser.me/api/portraits/men/99.jpg",
-    "nama": "Benjamin Taylor",
+    "nama": "Ben Taylor",
     "phone": "085222334455"
   },
   {
     "img": "https://randomuser.me/api/portraits/women/12.jpg",
-    "nama": "Isabella Moore",
+    "nama": "Ella Moore",
     "phone": "081366677788"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/13.jpg",
+    "nama": "Noah Scott",
+    "phone": "088123456789"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/23.jpg",
+    "nama": "Lily Adams",
+    "phone": "081288776655"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/34.jpg",
+    "nama": "Jack White",
+    "phone": "083233344455"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/45.jpg",
+    "nama": "Grace Hall",
+    "phone": "085599887766"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/56.jpg",
+    "nama": "Henry Wood",
+    "phone": "089877665544"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/67.jpg",
+    "nama": "Zoe Green",
+    "phone": "082233112244"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/78.jpg",
+    "nama": "Ethan Bell",
+    "phone": "081122334455"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/89.jpg",
+    "nama": "Chloe King",
+    "phone": "082211009988"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/90.jpg",
+    "nama": "Leo Reed",
+    "phone": "089944556677"
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/women/13.jpg",
+    "nama": "Mia Cox",
+    "phone": "081800112233"
   }
 ]
